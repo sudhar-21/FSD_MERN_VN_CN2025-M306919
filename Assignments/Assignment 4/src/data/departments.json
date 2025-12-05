@@ -1,0 +1,29 @@
+{
+  "departments": [
+    {
+      "id": "cse",
+      "name": "Computer Science & Engineering",
+      "shortDesc": "Computing, algorithms, software development.",
+      "fullDesc": "The CSE department focuses on theoretical and applied aspects of computation, software engineering, AI, and system design. Our faculty are actively involved in research and industry collaboration.",
+      "courses": ["B.Tech Computer Science", "M.Tech Computer Science", "PhD Computer Science"],
+      "faculty": [
+        { "name": "Dr. A. Raman", "designation": "Professor" },
+        { "name": "Dr. B. Kumar", "designation": "Assistant Professor" }
+      ],
+      "labs": ["Programming Lab", "AI & ML Lab", "Networks Lab"]
+    },
+    {
+      "id": "ece",
+      "name": "Electronics & Communication Engineering",
+      "shortDesc": "Electronics, communication systems, embedded design.",
+      "fullDesc": "ECE department deals with electronic systems, signal processing, communication networks, and embedded systems. We maintain modern labs and offer courses aligned with industry needs.",
+      "courses": ["B.Tech ECE", "M.Tech Communication Engineering"],
+      "faculty": [
+        { "name": "Dr. C. Singh", "designation": "Professor" },
+        { "name": "Dr. D. Rao", "designation": "Lecturer" }
+      ],
+      "labs": ["VLSI Lab", "Embedded Systems Lab", "Communication Systems Lab"]
+    }
+
+  ]
+}
